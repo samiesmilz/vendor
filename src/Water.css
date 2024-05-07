@@ -1,0 +1,8 @@
+.Water {
+  text-align: center;
+  min-height: 95vh;
+  background-image: url("./water-bg.gif");
+  background-size: cover;
+  width: 100vw;
+  color: white;
+}

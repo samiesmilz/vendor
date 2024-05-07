@@ -1,0 +1,20 @@
+.VendingMachine {
+  text-align: center;
+  min-height: 95vh;
+  background-image: url("./vmachine.webp");
+  background-size: cover;
+  width: 100vw;
+  color: white;
+}
+.VM-button {
+  padding: 5px 15px;
+  font-size: larger;
+  color: black;
+  background-color: aquamarine;
+  border-radius: 7px;
+  margin: 5px;
+}
+
+.VendorMachine-animation {
+  width: 400px;
+}

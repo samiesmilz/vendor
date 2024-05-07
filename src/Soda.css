@@ -1,0 +1,8 @@
+.Soda {
+  text-align: center;
+  min-height: 95vh;
+  background-image: url("./soda.gif");
+  background-size: cover;
+  width: 100vw;
+  color: black;
+}

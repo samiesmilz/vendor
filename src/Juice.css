@@ -1,0 +1,11 @@
+.Juice {
+  text-align: center;
+  min-height: 95vh;
+  background-image: url("./juice.jpeg");
+  background-size: cover;
+  width: 100vw;
+  color: white;
+}
+.Juice-bootles {
+  max-width: 1000px;
+}
